@@ -5,9 +5,9 @@
 <p align="center">Мой стек технологий:</p>
 <P>Frontend</P>
 <ul>
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="15"> HTML
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="15"> CSS <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" height="15">(SCSS)
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="15"> JavaScript
+    <li style="list-style: none;"><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="15"> HTML</li>
+    <li style="list-style: none;"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="15"> CSS <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" height="15">(SCSS)</li>
+    <li style="list-style: none;"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="15"> JavaScript</li>
 </ul>
 
 <p>Backand</p>
