@@ -4,10 +4,15 @@
 
 <p align="center">Мой стек технологий:</p>
 <P>Frontend</P>
-<ul>
-    <li style="list-style: none;"><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="15"> HTML</li>
-    <li style="list-style: none;"><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="15"> CSS <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" height="15">(SCSS)</li>
-    <li style="list-style: none;"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="15"> JavaScript</li>
+<ul style="list-style: none;">
+    <li><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="15"> HTML</li>
+    <li><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="15"> CSS <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" height="15">(SCSS)</li>
+    <li><img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" height="15">JavaScript</li>
+    <li><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="15"> React.js</li>
+    <li><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="15"> Gulp+Webpack</li>
+    <li><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="15"> Bootstrap</li>
+    <li><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="15"> Методология БЭМ</li>
+    <li><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="15"> Git</li>
 </ul>
 
 <p>Backand</p>
