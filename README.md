@@ -20,9 +20,9 @@
 
 <p>Прочее</p>
 <ul>
-    <li><img src="https://icons8.ru/icon/GX4iT6biRXL-/gulp" height="15">+<img src="https://icons8.ru/icon/sOWbK4N3cxGh/webpack" height="15"> Gulp + Webpack - инструменты для автоматизации разработки и сборки проекта</li>
+    <li>Gulp + Webpack - инструменты для автоматизации разработки и сборки проекта</li>
     <li><img src="https://ru.bem.info/S3zKVZJcFfltyiAz-bWVmw4o3IU.svgd" height="15"> Методология БЭМ - методология организации именования классов для CSS</li>
-    <li><img src="https://icons8.ru/icon/20906/git" height="15"> Git - система контроля версий для эффективной работы с исходным кодом.</li>
+    <li><img src="https://cdn-icons-png.flaticon.com/512/4494/4494748.png" height="15"> Git - система контроля версий для эффективной работы с исходным кодом.</li>
 </ul>
 
 <p>Контакты</p>
