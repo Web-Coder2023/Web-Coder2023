@@ -5,7 +5,7 @@
 <p align="center">Мой стек технологий:</p>
 <ul>
     <li><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="15"> HTML</li>
-    <li><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="15"> CSS(SCSS)</li>
+    <li><img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" height="15"> CSS <img src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" height="15">(SCSS)</li>
     <li><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="15"> JavaScript</li>
     <li><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="15"> PHP</li>
     <li><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="15"> Python</li>
