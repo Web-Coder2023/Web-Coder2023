@@ -4,13 +4,13 @@
 
 <p align="center">Мой стек технологий:</p>
 <ul>
-    <li><img src="https://icons8.ru/icon/20909/html-5" height="15"> HTML</li>
-    <li><img src="https://icons8.ru/icon/20909/html-5" height="15"> CSS(SCSS)</li>
-    <li><img src="https://icons8.ru/icon/20909/html-5" height="15"> JavaScript</li>
-    <li><img src="https://icons8.ru/icon/20909/html-5" height="15"> PHP</li>
-    <li><img src="https://icons8.ru/icon/20909/html-5" height="15"> Python</li>
-    <li><img src="https://icons8.ru/icon/20909/html-5" height="15"> Gulp+Webpack</li>
-    <li><img src="https://icons8.ru/icon/20909/html-5" height="15"> Bootstrap</li>
-    <li><img src="https://icons8.ru/icon/20909/html-5" height="15"> Методология БЭМ</li>
-    <li><img src="https://icons8.ru/icon/20909/html-5" height="15"> Git</li>
+    <li><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="15"> HTML</li>
+    <li><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="15"> CSS(SCSS)</li>
+    <li><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="15"> JavaScript</li>
+    <li><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="15"> PHP</li>
+    <li><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="15"> Python</li>
+    <li><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="15"> Gulp+Webpack</li>
+    <li><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="15"> Bootstrap</li>
+    <li><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="15"> Методология БЭМ</li>
+    <li><img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" height="15"> Git</li>
 </ul>
