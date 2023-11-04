@@ -4,13 +4,13 @@
 
 <p align="center">Мой стек технологий:</p>
 <ul>
-    <li><img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt=""> HTML</li>
-    <li><img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt=""> CSS(SCSS)</li>
-    <li><img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt=""> JavaScript</li>
-    <li><img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt=""> PHP</li>
-    <li><img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt=""> Python</li>
-    <li><img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt=""> Gulp+Webpack</li>
-    <li><img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt=""> Bootstrap</li>
-    <li><img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt=""> Методология БЭМ</li>
-    <li><img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt=""> Git</li>
+    <li><img src="https://icons8.ru/icon/20909/html-5" height="15"> HTML</li>
+    <li><img src="https://icons8.ru/icon/20909/html-5" height="15"> CSS(SCSS)</li>
+    <li><img src="https://icons8.ru/icon/20909/html-5" height="15"> JavaScript</li>
+    <li><img src="https://icons8.ru/icon/20909/html-5" height="15"> PHP</li>
+    <li><img src="https://icons8.ru/icon/20909/html-5" height="15"> Python</li>
+    <li><img src="https://icons8.ru/icon/20909/html-5" height="15"> Gulp+Webpack</li>
+    <li><img src="https://icons8.ru/icon/20909/html-5" height="15"> Bootstrap</li>
+    <li><img src="https://icons8.ru/icon/20909/html-5" height="15"> Методология БЭМ</li>
+    <li><img src="https://icons8.ru/icon/20909/html-5" height="15"> Git</li>
 </ul>
