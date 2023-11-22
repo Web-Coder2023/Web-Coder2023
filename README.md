@@ -15,7 +15,6 @@
 <ul>
     <li><img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" height="15"> PHP - серверный язык программирования</li>
     <li><img src="https://cdn-icons-png.flaticon.com/512/2772/2772128.png" height="15"> SQL - язык структурированных запросов для работы с базами данных</li>
-    <li><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" height="15"> SQL - язык структурированных запросов для работы с базами данных</li>
 </ul>
 
 <p align="center">Прочее</p>
